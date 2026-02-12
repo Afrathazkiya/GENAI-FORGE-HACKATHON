@@ -4,16 +4,16 @@ This system allows users to upload claim data, automatically processes and clean
 This project is useful for insurance companies, fraud detection systems, risk analysis, and academic research.
 
 ## Features
-✅ Upload Excel (.xlsx, .xls) or CSV files
-✅ Automatic Excel → CSV conversion
-✅ Data cleaning and preprocessing
-✅ Fraud risk score calculation
-✅ Claim approval / rejection prediction
-✅ High-risk user detection
-✅ Sector-wise fraud statistics
-✅ REST API endpoints
-✅ File download support
-✅ Real-time fraud analysis
+1) Upload Excel (.xlsx, .xls) or CSV files
+2) Automatic Excel → CSV conversion
+3) Data cleaning and preprocessing
+4) Fraud risk score calculation
+5) Claim approval / rejection prediction
+6) High-risk user detection
+7) Sector-wise fraud statistics
+8) REST API endpoints
+9) File download support
+10) Real-time fraud analysis
 
 ## Tech Stack
 Node.js — Backend runtime
